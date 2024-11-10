@@ -15,6 +15,10 @@ body{
 }
 
 /*--- Seccion menu ---*/
+.cabecera__logo{
+    width: 1.5rem;
+    height: 1.5rem;
+}
 .cabecera__titulo{
     font-size: 1rem;
     font-weight: 600;
