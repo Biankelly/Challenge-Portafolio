@@ -132,7 +132,7 @@ body{
     font-weight: 600;
     font-size: 2rem;
     text-align: center;
-    margin-top;: 1.2rem 
+    margin-top: 1.2rem;
 }
 .proyectos__imagen{
     width: 60%;
@@ -155,4 +155,17 @@ body{
     background-color: #2A7AE4;
     color: white;
     font-family: 'Raleway', sans-serif;
+}
+
+/*--- Seccion Contactos ---*/
+.contacto{
+    background-color: #eaf2fd;
+    padding: 0.5rem;
+    margin-top: 2rem;
+}
+.contacto__titulo{
+    font-weight: 600;
+    font-size: 2rem;
+    text-align: center;
+    margin: 1rem;
 }
