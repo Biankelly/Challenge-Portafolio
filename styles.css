@@ -3,6 +3,7 @@
     --color-de-fondo-menu: #ffffff;
     --color-de-link: #000000;
     --color-de-negritas: #464646;
+    
 }
 
 body{
@@ -112,7 +113,7 @@ body{
     font-weight: 600;
     font-size: 2rem;
     text-align: center;
-    margin: 1rem;
+    margin: 3rem 0rem 1.2rem 0rem;
 }
 .formacion__elemento{
     border: 1px solid white;
@@ -126,4 +127,32 @@ body{
 
 }
 
-/*--- Experiencia Profesional ---*/
+/*--- Seccion Proyectos ---*/
+.proyectos__titulo{
+    font-weight: 600;
+    font-size: 2rem;
+    text-align: center;
+    margin-top;: 1.2rem 
+}
+.proyectos__imagen{
+    width: 60%;
+    margin-top: 1rem;
+}
+.proyectos__nombre{
+    font-weight: 600;
+    font-size: 1.3rem;
+    margin: 0.5rem 0rem;
+}
+.proyectos__boton{
+    width: 7.25rem;
+    height: 3.18rem;
+    margin: 1rem 1rem 0rem 0rem;
+    color: #2A7AE4;
+    border: 1px solid #2A7AE4;
+    font-size: 1rem;
+}
+.boton--azul{
+    background-color: #2A7AE4;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
