@@ -47,6 +47,7 @@ body{
 /*--- Seccion Sobre mi ---*/
 .sobreMi{
     background-color: #eaf2fd;
+    padding: 1rem;
 }
 .sobreMi__titulo{
     font-weight: 600;
@@ -59,11 +60,13 @@ body{
 }
 
 /*--- Seccion habilidades ---*/
+.habilidades{
+    margin-top: 2rem;
+}
 .habilidades__titulo{
     font-weight: 600;
     font-size: 2rem;
     text-align: center;
-    margin: 1rem;
 }
 .habilidades__elemento{
     border: 1px solid white;
@@ -73,5 +76,54 @@ body{
     height: 10.8rem;
 }
 .habiliades__nombre{
-    
+    font-size: 1rem;
+    font-weight: 600;
 }
+
+/*--- seccion aficiones ---*/
+.aficiones{
+    margin-top: 2rem;
+}
+.aficiones__titulo{
+    font-weight: 600;
+    font-size: 2rem;
+    text-align: center;
+    margin: 1rem;
+}
+.aficiones__elemento{
+    border: 1px solid white;
+    background-color: white;
+    margin: 1rem;
+    width: 11rem;
+    height: 10.8rem; 
+}
+.aficiones__nombre{
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+/*--- Seccion Formaciones ---*/
+.formacion{
+    background-color: #eaf2fd;
+    padding: 0.5rem;
+    margin-top: 2rem;
+}
+.formacion__titulo{
+    font-weight: 600;
+    font-size: 2rem;
+    text-align: center;
+    margin: 1rem;
+}
+.formacion__elemento{
+    border: 1px solid white;
+    background-color: white;
+    margin: 1rem;
+    width: 23rem;
+    height: 17.8rem; 
+}
+.formacion__elemento--texto{
+    margin: 1rem;
+
+}
+
+/*--- Experiencia Profesional ---*/
