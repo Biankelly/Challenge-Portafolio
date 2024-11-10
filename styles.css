@@ -1,0 +1,31 @@
+:root{
+    --color-de-fondo: #f5f5f5;
+    --color-de-fondo-menu: #ffffff;
+    --color-de-link: #000000;
+    --color-de-negritas: #464646;
+}
+
+body{
+    background-color: var(--color-de-fondo);
+    font-family: 'Raleway', sans-serif;
+    line-height: 1.3;
+    color: var(--color-de-negritas);
+}
+
+/*--- Seccion menu ---*/
+.cabecera__titulo{
+    font-size: 1rem;
+    font-weight: 600;
+}
+.navegacion__lista{
+    font-size: 1rem;
+}
+
+/*--- Seccion de presentacion ---*/
+.presentacion__foto{
+    width: 23rem;
+}
+.presentacion__titulo{
+    font-size: 3.25rem;
+    font-weight: 600;
+}
