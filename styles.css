@@ -15,6 +15,10 @@ body{
 }
 
 /*--- Seccion menu ---*/
+.cabecera{
+    gap: 1rem;
+
+}
 .cabecera__logo{
     width: 1.5rem;
     height: 1.5rem;
@@ -25,6 +29,7 @@ body{
 }
 .navegacion__lista{
     font-size: 1rem;
+    gap: 1rem;
 }
 
 /*--- Seccion de presentacion ---*/
