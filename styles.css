@@ -173,11 +173,12 @@ body{
     font-weight: 600;
     font-size: 2rem;
     text-align: center;
-    margin-top: 1.2rem;
+    margin-top: 2rem;
 }
 .proyectos__imagen{
-    width: 60%;
-    margin-top: 1rem;
+    width: 100%;
+    height: auto;
+    margin-top: 2rem;
 }
 .proyectos__nombre{
     font-weight: 600;
@@ -185,17 +186,19 @@ body{
     margin: 0.5rem 0rem;
 }
 .proyectos__boton{
-    width: 7.25rem;
+    width: 40%;
     height: 3.18rem;
     margin: 1rem 1rem 0rem 0rem;
     color: #2A7AE4;
     border: 1px solid #2A7AE4;
     font-size: 1rem;
+    font-weight: bold;
+    font-family: 'Raleway', sans-serif;
+    cursor: pointer;
 }
 .boton--azul{
     background-color: #2A7AE4;
     color: white;
-    font-family: 'Raleway', sans-serif;
 }
 
 /*--- Seccion Contactos ---*/
