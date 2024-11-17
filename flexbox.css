@@ -52,3 +52,21 @@
     flex-direction: column;
     justify-content: flex-end;
 }
+
+/*--- Aficiones ---*/
+.aficiones{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.aficiones__lista{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-grow: 10;
+}
+.aficiones__elemento{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
