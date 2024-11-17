@@ -154,12 +154,18 @@ body{
     border: 1px solid white;
     background-color: white;
     margin: 1rem;
-    width: 23rem;
-    height: 17.8rem; 
+    width: 30rem;
+    height: auto; 
+}
+.formacion__icono{
+    margin: 4rem 0rem;
 }
 .formacion__elemento--texto{
-    margin: 1rem;
-
+    margin: 0.5rem 1rem;
+    line-height: 2rem;
+}
+.formacion__nombre{
+    font-weight: bold;
 }
 
 /*--- Seccion Proyectos ---*/
