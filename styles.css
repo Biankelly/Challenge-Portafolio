@@ -11,46 +11,49 @@ body{
     font-family: 'Raleway', sans-serif;
     line-height: 1.3;
     color: var(--color-de-negritas);
-    margin: 1rem 5rem;
+    margin: 1rem 2rem;
 }
 
 /*--- Seccion menu ---*/
-.cabecera{
-    gap: 1rem;
-
+.cabecera__contenedor{
+    margin-top: 2rem;
 }
 .cabecera__logo{
-    width: 1.5rem;
-    height: 1.5rem;
+    width: 2rem;
+    height: auto;
 }
 .cabecera__titulo{
-    font-size: 1rem;
+    font-size: 1.5rem;
     font-weight: 600;
+    margin-left: 1rem;
 }
 .navegacion__lista{
-    font-size: 1rem;
-    gap: 1rem;
+    font-size: 1.5rem;
 }
 
 /*--- Seccion de presentacion ---*/
 .presentacion__foto{
-    width: 23rem;
+    width: 12.12rem;
     height: auto;
+    margin: 2rem 0;
 }
 .presentacion__titulo{
-    font-size: 3.25rem;
+    font-size: 3rem;
     font-weight: 600;
-    margin: 1rem 0;
 }
 .presentacion__subtitulo{
     margin: 1rem 0;
-    font-size: 1.3rem;
+    font-size: 2rem;
 }
 .redes{
-    font-size: 1rem;
+    font-size: 1.2rem;
 }
 .redes__img{
-    width: 24px;
+    font-weight: bold;
+    margin-bottom: 1.2rem;
+}
+.redes__img img{
+    width: 0.8rem;
 }
 
 /*--- Seccion Sobre mi ---*/
@@ -60,17 +63,23 @@ body{
 }
 .sobreMi__titulo{
     font-weight: 600;
-    margin: 3rem 0rem 1rem;
+    font-size: 2rem;
+    margin: 1rem 0rem;
 }
 .sobreMi__texto{
-    font-size: 1rem;
+    font-size: 1.2rem;
     margin: 1rem 0rem;
     text-align: left;
+}
+.sobreMi__firma{
+    width: 9rem;
+    height: auto;
 }
 
 /*--- Seccion habilidades ---*/
 .habilidades{
-    margin-top: 2rem;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
 }
 .habilidades__titulo{
     font-weight: 600;
@@ -81,12 +90,24 @@ body{
     border: 1px solid white;
     background-color: white;
     margin: 1rem;
-    width: 11rem;
-    height: 10.8rem;
+    width: 14rem;
+    height: 9rem;
+    line-height: 3rem;
+}
+.habilidades__icono{
+    width: 2rem;
+    margin-left: 1rem;
+}
+.habilidades__icono-php{
+    width: 22%;
+}
+.habilidades__icono-node{
+    width: 22%;
 }
 .habiliades__nombre{
-    font-size: 1rem;
-    font-weight: 600;
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin-left: 1rem;
 }
 
 /*--- seccion aficiones ---*/
