@@ -124,12 +124,18 @@ body{
     border: 1px solid white;
     background-color: white;
     margin: 1rem;
-    width: 11rem;
-    height: 10.8rem; 
+    width: 14rem;
+    height: 9rem;
+    line-height: 3rem;
+}
+.aficiones__icono{
+    width: 2rem;
+    margin-left: 1rem;
 }
 .aficiones__nombre{
     font-size: 1rem;
     font-weight: 600;
+    margin-left: 1rem;
 }
 
 /*--- Seccion Formaciones ---*/
