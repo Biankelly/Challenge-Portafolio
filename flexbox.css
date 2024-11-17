@@ -1,0 +1,54 @@
+/* --- Seccion Cabecera ---*/
+.cabecera__contenedor{
+    display: flex;
+    justify-content: space-between;
+}
+.cabecera__logo-titulo{
+    display: flex;
+}
+.navegacion__lista{
+    display: flex;
+    justify-content: flex-end;
+}
+.navegacion__elemento:nth-child(1),
+.navegacion__elemento:nth-child(2),
+.navegacion__elemento:nth-child(3),
+.navegacion__elemento:nth-child(4),
+.navegacion__elemento:nth-child(5){
+    display: none;
+}
+
+/* --- Seccion Presentacion ---*/
+.presentacion{
+    display: flex;
+    flex-direction: column;
+}
+.redes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+/*--- Seccion Sobre mi ---*/
+.sobreMi{
+    display: flex;
+    flex-direction: column;
+}
+
+/*--- Habilidades ---*/
+.habilidades{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.habilidades__lista{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-grow: 10;
+}
+.habilidades__elemento{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
