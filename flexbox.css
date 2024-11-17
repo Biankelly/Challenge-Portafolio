@@ -88,3 +88,14 @@
     flex-direction: column;
     align-items: flex-start;
 }
+
+/*--- Seccion proyectos ---*/
+.proyectos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.proyectos__contenedor{
+    display: flex;
+    flex-direction: column;
+}
