@@ -18,12 +18,12 @@ Este proyecto refleja mi pasión por el desarrollo Front-End y mi compromiso con
 <img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white" alt="CSS"> Con estilos avanzados y diseño responsivo.  
 
 ## **Objetivo del proyecto**  
-Este portafolio fue desarrollado como parte de un **challenge proporcionado por Alura**, con el propósito de consolidar mis conocimientos en desarrollo Front-End, diseño responsivo y buenas prácticas de programación. Es una representación de mi progreso y dedicación en este campo.
+Este portafolio fue desarrollado como parte de un **challenge proporcionado por Alura Latam**, con el propósito de consolidar mis conocimientos en desarrollo Front-End, diseño responsivo y buenas prácticas de programación. Es una representación de mi progreso y dedicación en este campo.
 
 ## **Visualiza mi portafolio**  
 - **[Enlace al Portafolio](https://tu-enlace-aqui.com)** *(Agrega aquí el enlace a tu portafolio en línea)*  
 
 ## **Contacto**  
 Si deseas colaborar o tienes alguna consulta, no dudes en contactarme:  
-- **Email**: [tu.email@ejemplo.com](mailto:tu.email@ejemplo.com)  
-- **LinkedIn**: [Perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil/)  
+- **Email**: [tu.email@ejemplo.com](mailto:kellybianka8@gmail.com)  
+- **LinkedIn**: [Perfil de LinkedIn](https://www.linkedin.com/in/bianka-kelly/)  
